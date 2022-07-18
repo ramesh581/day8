@@ -1,0 +1,29 @@
+#main {
+    margin: auto;
+    width: 30%;
+    border: 3px solid black;
+    padding: 0px 10px 0px 10px;
+  }
+
+  #first_name, #last_name {
+    width: 45%;
+  }
+  #city, #state, #zip{
+    width: 29%;
+  }
+
+  checkbox{
+    display: block;
+  }
+
+  input{
+    margin: 3px;
+  }
+
+  #text1{
+    width: 20%;
+    margin: auto;
+    text-align: center;
+    padding: 10px;
+    background-color: lightblue;
+  }
